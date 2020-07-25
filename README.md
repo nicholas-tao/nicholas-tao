@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true"></a>
+</p>
+
+<p align = "center>
     <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-tao"/></a>
 </p>
+
 
 <!--
 ![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true)
