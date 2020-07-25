@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-tao)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Visits Badge](https://badges.pufler.dev/visits/nicholas-tao/nicholas-tao)](https://badges.pufler.dev)
+
