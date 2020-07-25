@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Nicholas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-tao)](https://github.com/anuraghazra/github-readme-stats)
+
