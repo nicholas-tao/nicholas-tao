@@ -25,6 +25,10 @@ I'm Nicholas, a Computer Science student at the University of Waterloo. I'm a so
 - Redux for state management
 - More about data structures and algorithms on Coursera
 
+### 📫 How to reach me: ...
+- [LinkedIn](https://www.linkedin.com/in/nicholastao/)
+- [Personal Website](https://nicholastao.tech/)
+
 
 <p align="center">
     <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515""></a>
