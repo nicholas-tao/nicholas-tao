@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Nicholas, a Computer Science student at the University of Waterloo. I'm a software developer and currently searching for Spring/Summer 2021 (May-August) internships in software development. I'm always interested to hear about any cool projects you're working on!
+
 ### 🔭 I’m working on ...
 - Building and growing [Wave](https://wavechat.tech), a platform that connects incoming first-year university students
 - Interning @ [Posture Health](https://theposturehealth.com) as a Software Engineering Intern
