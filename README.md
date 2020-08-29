@@ -19,6 +19,7 @@ I'm Nicholas, a Computer Science student at the University of Waterloo. I'm a so
 
 ### 🔭 I’m working on ...
 - Building and growing [Wave](https://wavechat.tech), a platform that connects incoming first-year university students
+- Building [ApplyAI](https://apply-ai.online), a website that finds and applies to jobs for you based on your resume data, with (possible) support from Google Cloud
 
 ### 🌱 I’m learning ...
 - Redux for state management
