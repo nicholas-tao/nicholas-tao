@@ -27,7 +27,7 @@ I'm Nicholas, a Computer Science student at the University of Waterloo. I'm a so
 
 ### 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/nicholastao/)
-- [Personal Website](https://nicholastao.tech/)
+- [Personal Website](https://nicholastao.com/)
 
 
 <p align="center">
