@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicholas, a Computer Science student at the University of Waterloo. I'm a software developer and currently searching for Spring/Summer 2021 (May-August) internships in software development. I'm always interested to hear about any cool projects you're working on!
+I'm Nicholas, a Computer Science student at the University of Waterloo. This summer, I'll be working as a Front End Engineer at [Faire](https://www.faire.com/) and I'm currently seeking Winter 2022 internships in software development. I'm always interested to hear about any cool projects you're working on!
 
-### 🔭 I’m working on ...
-- Building and growing [Wave](https://wavechat.tech), a platform that connects incoming first-year university students
-- Building [ApplyAI](https://apply-ai.online), a website that finds and applies to jobs for you based on your resume data, with (possible) support from Google Cloud
-
+### 🔭 Some things I've worked on ...
+- [Wave Chat](https://wavechat.tech), a platform that connects first-year university students
+- [ApplyAI](https://apply-ai.online), a web app that automates the job-hunting process
+- [Lynz](https://github.com/nicholas-tao/lynz-backend), a web app that tracks how busy nearby grocery stores are
+<!--
 ### 🌱 I’m learning ...
 - Redux for state management
 - More about data structures and algorithms on Coursera
-
-### 📫 How to reach me: ...
+-->
+### 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/nicholastao/)
 - [Personal Website](https://nicholastao.com/)
-
+- [YouTube](https://www.youtube.com/channel/UCzSc8bhRKEKe7xEGp-5LWAg)
 <!--
 <p align="center">
     <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515""></a>
