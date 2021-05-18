@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicholas, a Computer Science student at the University of Waterloo. This summer, I'll be working as a Front End Engineer at [Faire](https://www.faire.com/) and I'm currently seeking Winter 2022 internships in software development. I'm always interested to hear about any cool projects you're working on!
+I'm Nicholas, a Computer Science student at the University of Waterloo. I'm currently building the future of wholesale as a Frontend Engineer Intern at [Faire](https://www.faire.com/) and seeking Winter 2022 internships in software development. I'm always interested to hear about any cool projects you're working on!
 
 ### 🔭 Some things I've worked on ...
 - [Wave Chat](https://wavechat.tech), a platform that connects first-year university students
@@ -29,7 +29,7 @@ I'm Nicholas, a Computer Science student at the University of Waterloo. This sum
 ### 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/nicholastao/)
 - [Personal Website](https://nicholastao.com/)
-- [YouTube](https://www.youtube.com/channel/UCzSc8bhRKEKe7xEGp-5LWAg)
+<!--- [YouTube](https://www.youtube.com/channel/UCzSc8bhRKEKe7xEGp-5LWAg)-->
 <!--
 <p align="center">
     <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515""></a>
