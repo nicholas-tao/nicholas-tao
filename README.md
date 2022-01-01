@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicholas, a Computer Science student at the University of Waterloo. I'm currently building the future of wholesale as a Frontend Engineer Intern at [Faire](https://www.faire.com/) and seeking Winter 2022 internships in software development. I'm always interested to hear about any cool projects you're working on!
+I'm Nicholas, a Computer Science student at the University of Waterloo. I'm currently interning as a Software Engineer at [Wealthsimple](https://www.wealthsimple.com/) and previously interned as a Frontend Engineer at [Faire](https://www.faire.com/). Seeking **Fall 2022** software internships and always interested to hear about any cool projects you're working on!
 
 ### 🔭 Some things I've worked on ...
 - [Wave Chat](https://wavechat.tech), a platform that connects first-year university students
