@@ -15,27 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicholas, a 3rd-year Computer Science student at the University of Waterloo. This Fall, I'm interning as a Software Engineer at [Kiavi](https://www.kiavi.com/)! Previously, I interned as a Software Engineer at [Wealthsimple](https://www.wealthsimple.com) and as a Frontend Engineer at [Faire](https://www.faire.com/). Seeking **Summer 2023** software internships and always interested to hear about any cool projects you're working on!
+I'm Nicholas, a 3rd-year Computer Science student at the University of Waterloo. I'm a software engineer,  creator, and badminton player.
+
+This January, I'll be joining [ETHGlobal](https://ethglobal.com/) in building the most valuable community in web3.
+
+Seeking **Summer 2024** software internships and always interested to hear about any cool projects you're working on!
+
+### 🛠 Currently...
+- Planning events at [UW CS Club](https://csclub.uwaterloo.ca/)
+- Making memes on [Youtube](https://www.youtube.com/@nicholast/)
+- Learning how the internet works in [CS 456](https://mina.arashloo.net/courses/CS456-F23/index.html)
+
+### 🚢 Previously...
+  - Built 1-on-1 tutoring features at [Outschool](https://outschool.com/)
+  - Worked on data infrastructure at [Kiavi](https://www.kiavi.com/)
+  - Made developer's lives better at [Wealthsimple](https://www.wealthsimple.com)
+  - Shipped growth features at [Faire](https://www.faire.com/)
 
 ### 🔭 Some things I've worked on ...
 - [Wave Chat](https://wavechat.tech), a platform that connects first-year university students
 - [ApplyAI](https://apply-ai.online), a web app that automates the job-hunting process
 - [Lynz](https://github.com/nicholas-tao/lynz-backend), a web app that tracks how busy nearby grocery stores are
-<!--
-### 🌱 I’m learning ...
-- Redux for state management
-- More about data structures and algorithms on Coursera
--->
-### 📫 Find me here: ...
+
+### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/nicholastao/)
 - [Personal Website](https://nicholastao.com/)
 <!--- [YouTube](https://www.youtube.com/channel/UCzSc8bhRKEKe7xEGp-5LWAg)-->
-<!--
-<p align="center">
-    <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nicholas-tao&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515""></a>
-     <a href="https://github.com/nicholas-tao" target="_blank"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-tao&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515""/></a>
-</p>
--->
 
 
 <!--
