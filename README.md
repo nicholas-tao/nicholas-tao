@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicholas, a 3rd-year Computer Science student at the University of Waterloo. I'm a software engineer,  creator, and badminton player.
+I'm Nicholas, a 4th-year Computer Science student at the University of Waterloo. I'm a software engineer,  creator, and badminton player.
 
-This January, I'll be joining [ETHGlobal](https://ethglobal.com/) in building the most valuable community in web3.
-
-Seeking **Summer 2024** software internships and always interested to hear about any cool projects you're working on!
+Seeking **2025** new grad roles in software engineering and always interested to hear about any cool projects you're working on!
 
 ### 🛠 Currently...
-- Planning events at [UW CS Club](https://csclub.uwaterloo.ca/)
+- Learning about security and cryptography in [CS 459](https://crysp.uwaterloo.ca/courses/data-sp/F24/syllabus.html)
 - Making memes on [Youtube](https://www.youtube.com/@nicholast/)
-- Learning how the internet works in [CS 456](https://mina.arashloo.net/courses/CS456-F23/index.html)
+- Getting into volleyball and pickleball (I am addicted)
+
 
 ### 🚢 Previously...
+  - Did some cool stuff at [Cockroach Labs](https://cockroachlabs.com/) (feel free to ask me about this)
+  - Handled crypto payments at [ETHGlobal](https://ethglobal.com/)
   - Built 1-on-1 tutoring features at [Outschool](https://outschool.com/)
   - Worked on data infrastructure at [Kiavi](https://www.kiavi.com/)
   - Made developer's lives better at [Wealthsimple](https://www.wealthsimple.com)
