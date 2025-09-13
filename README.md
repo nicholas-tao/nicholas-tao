@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Nicholas, a 4th-year Computer Science student at the University of Waterloo. I'm a software engineer,  creator, and badminton player.
+I'm Nicholas, a software engineer based in New York City. 
 
-Seeking **2025** new grad roles in software engineering and always interested to hear about any cool projects you're working on!
+I recently (2025) graduated from the University of Waterloo, where I studied Computer Science 💻 🇨🇦 
+
 
 ### 🛠 Currently...
-- Learning about security and cryptography in [CS 459](https://crysp.uwaterloo.ca/courses/data-sp/F24/syllabus.html)
+- Discovering cool spots in NYC
 - Making memes on [Youtube](https://www.youtube.com/@nicholast/)
-- Getting into volleyball and pickleball (I am addicted)
+- Playing lots of pickleball
 
 
 ### 🚢 Previously...
